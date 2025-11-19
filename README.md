@@ -4,7 +4,7 @@ My name is Anastasia, an aspiring software developer from Florida! I'm currently
 
 Currently, I'm teaching myself Javascript and React as those aren't included in the A.S or B.S degrees that are offered.
 
-Right now, I'm working on a couple of projects including a personal portfolio built with React, a mockup therapy website built with VanillaJS, and a cursor controlled animation!
+Right now, I'm working on a couple of projects including a personal portfolio, a mockup therapy website, and a cursor controlled animation!
 
 To reach me, my email is: anastasia.m.johnson20@gmail.com
 
