@@ -2,7 +2,7 @@
 
 My name is Anastasia, an aspiring software developer from Florida! I'm currently in school with the goal to obtain a Bachelor's in Information Technology. While I like the idea of combining this degree with my degree in Biomedical Sciences, I'm finding out more about the world of software development and what all I can create and do that keeps me from wanting to limit myself to one field.
 
-Currently, I'm teaching myself VanillaJS and React as those aren't included in the B.S degree offered in my area.
+Currently, I'm teaching myself HTML, CSS, VanillaJS and React as those aren't included in the B.S degree offered in my area.
 
 Right now, I'm working on a couple of projects including a personal portfolio, a cursor controlled animation, and adapting the therapy website for mobile display.
 
